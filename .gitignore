@@ -1,16 +1,3 @@
-# Ignore log files
-*.log
-
-#Ignore CSV files 
-*.csv
-
-# Ignore the build directory
-__pycache__/
-node_modules/
-
-#Ignore requirements if do not change modules
-*.txt
-
 # Ignore env file
 *.env
 
