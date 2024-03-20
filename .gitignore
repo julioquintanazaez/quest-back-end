@@ -1,5 +1,11 @@
-# Ignore env file
+# Ignore log files
 *.env
+
+#Ignore CSV files 
+*.csv
+
+# Ignore the build directory
+__pycache__/
 
 
 
