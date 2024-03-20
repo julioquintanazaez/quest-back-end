@@ -11,4 +11,8 @@ node_modules/
 #Ignore requirements if do not change modules
 *.txt
 
+# Ignore env file
+*.env
+
+
 
