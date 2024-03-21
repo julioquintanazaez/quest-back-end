@@ -46,8 +46,8 @@ app = FastAPI()
 
 # Allow these origins to access the API
 origins = [	
-	"http://my-app-4bad.onrender.com",
-	"https://my-app-4bad.onrender.com",		
+	"http://questionaries-front.onrender.com",
+	"https://questionaries-front.onrender.com",		
 	"http://localhost",
 	"http://localhost:8080",
 	"https://localhost:8080",
